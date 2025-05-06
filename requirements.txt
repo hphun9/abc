@@ -1,0 +1,7 @@
+opencv-python
+ultralytics
+requests
+face_recognition
+facenet-pytorch
+torch
+Pillow

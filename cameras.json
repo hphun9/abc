@@ -1,0 +1,9 @@
+[
+    {
+        "camera_id": "6315f6a1e4a7e4195c8f4ee2",
+        "room_id": "6315f6b9e4a7e4195c8f4ef0",
+        "name": "Imou A42",
+        "ip": "rtsp://admin:L2CF2ED0@192.168.1.115:554/cam/realmonitor?channel=1&subtype=1",
+        "type": "recognition"
+    }
+]
